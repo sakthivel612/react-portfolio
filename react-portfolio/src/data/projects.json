@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Job Portal App",
+    "imageSrc": "projects/project.jpg",
+    "description": "This project is used to find available jobs and upload new ones, which helps job-seeking employees, and it provides information on available locations",
+    "skills": ["React", "Express", "Node", "MongoDb"],
+    "deployee": "https://precious-kangaroo-205354.netlify.app/",
+    "FrontEnd": "https://github.com/sakthivel612/frontend",
+    "BackEnd": "https://github.com/sakthivel612/backend"
+  },
+  {
+    "title": "Document Writting App",
+    "imageSrc": "projects/document.jpg",
+    "description": "This application is user write own content and it's like we do document based works.",
+    "skills": ["React", "Express", "Node", "Socket.io", "MongoDb"],
+    "deployee": "https://master--polite-cassata-f12aeb.netlify.app/document/bd07ef67-105c-4717-aabb-f92a6fa4e005",
+    "FrontEnd": "https://github.com/sakthivel612/project1",
+    "BackEnd": "https://github.com/sakthivel612/project1_backend"
+  },
+  {
+    "title": "Contact App",
+    "imageSrc": "projects/contact.jpg",
+    "description": "This Project is Authentication based(Auth/JWT). which helps in contacts are stored and easly access whenever needed.",
+    "skills": ["React", "Express", "Node", "MongoDb"],
+    "deployee": "https://master--marvelous-zuccutto-04c7eb.netlify.app/",
+    "FrontEnd": "https://github.com/sakthivel612/crm-capstone-frntend",
+    "BackEnd": "https://github.com/sakthivel612/server"
+  },
+  {
+    "title": "CRUD",
+    "imageSrc": "projects/CRUD.jpg",
+    "description": "This is CRUD based application. we perform create, read, update, delete.This application main usage is adding a Teachers purpose.",
+    "skills": ["React", "Bootstrap"],
+    "deployee": "https://master--calm-croissant-2e5b52.netlify.app/",
+    "FrontEnd": "https://github.com/sakthivel612/crud-dashboard",
+    "BackEnd": "https://github.com/sakthivel612/crud-dashboard"
+  }
+]
